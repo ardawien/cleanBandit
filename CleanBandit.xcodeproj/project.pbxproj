@@ -14,6 +14,27 @@
 		FF8372981EA82A41005D04CF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF8372961EA82A41005D04CF /* LaunchScreen.storyboard */; };
 		FF8372A31EA82A42005D04CF /* CleanBanditTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF8372A21EA82A42005D04CF /* CleanBanditTests.swift */; };
 		FF8372AE1EA82A42005D04CF /* CleanBanditUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF8372AD1EA82A42005D04CF /* CleanBanditUITests.swift */; };
+		FF8372C41EA82BBA005D04CF /* SexBombConfigurator.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF8372BD1EA82BBA005D04CF /* SexBombConfigurator.swift */; };
+		FF8372C51EA82BBA005D04CF /* SexBombConfigurator.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF8372BD1EA82BBA005D04CF /* SexBombConfigurator.swift */; };
+		FF8372C61EA82BBA005D04CF /* SexBombConfigurator.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF8372BD1EA82BBA005D04CF /* SexBombConfigurator.swift */; };
+		FF8372C71EA82BBA005D04CF /* SexBombInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF8372BE1EA82BBA005D04CF /* SexBombInteractor.swift */; };
+		FF8372C81EA82BBA005D04CF /* SexBombInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF8372BE1EA82BBA005D04CF /* SexBombInteractor.swift */; };
+		FF8372C91EA82BBA005D04CF /* SexBombInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF8372BE1EA82BBA005D04CF /* SexBombInteractor.swift */; };
+		FF8372CA1EA82BBA005D04CF /* SexBombModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF8372BF1EA82BBA005D04CF /* SexBombModels.swift */; };
+		FF8372CB1EA82BBA005D04CF /* SexBombModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF8372BF1EA82BBA005D04CF /* SexBombModels.swift */; };
+		FF8372CC1EA82BBA005D04CF /* SexBombModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF8372BF1EA82BBA005D04CF /* SexBombModels.swift */; };
+		FF8372CD1EA82BBA005D04CF /* SexBombPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF8372C01EA82BBA005D04CF /* SexBombPresenter.swift */; };
+		FF8372CE1EA82BBA005D04CF /* SexBombPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF8372C01EA82BBA005D04CF /* SexBombPresenter.swift */; };
+		FF8372CF1EA82BBA005D04CF /* SexBombPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF8372C01EA82BBA005D04CF /* SexBombPresenter.swift */; };
+		FF8372D01EA82BBA005D04CF /* SexBombRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF8372C11EA82BBA005D04CF /* SexBombRouter.swift */; };
+		FF8372D11EA82BBA005D04CF /* SexBombRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF8372C11EA82BBA005D04CF /* SexBombRouter.swift */; };
+		FF8372D21EA82BBA005D04CF /* SexBombRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF8372C11EA82BBA005D04CF /* SexBombRouter.swift */; };
+		FF8372D31EA82BBA005D04CF /* SexBombViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF8372C21EA82BBA005D04CF /* SexBombViewController.swift */; };
+		FF8372D41EA82BBA005D04CF /* SexBombViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF8372C21EA82BBA005D04CF /* SexBombViewController.swift */; };
+		FF8372D51EA82BBA005D04CF /* SexBombViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF8372C21EA82BBA005D04CF /* SexBombViewController.swift */; };
+		FF8372D61EA82BBA005D04CF /* SexBombWorker.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF8372C31EA82BBA005D04CF /* SexBombWorker.swift */; };
+		FF8372D71EA82BBA005D04CF /* SexBombWorker.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF8372C31EA82BBA005D04CF /* SexBombWorker.swift */; };
+		FF8372D81EA82BBA005D04CF /* SexBombWorker.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF8372C31EA82BBA005D04CF /* SexBombWorker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +68,13 @@
 		FF8372A91EA82A42005D04CF /* CleanBanditUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CleanBanditUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF8372AD1EA82A42005D04CF /* CleanBanditUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CleanBanditUITests.swift; sourceTree = "<group>"; };
 		FF8372AF1EA82A42005D04CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FF8372BD1EA82BBA005D04CF /* SexBombConfigurator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SexBombConfigurator.swift; sourceTree = "<group>"; };
+		FF8372BE1EA82BBA005D04CF /* SexBombInteractor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SexBombInteractor.swift; sourceTree = "<group>"; };
+		FF8372BF1EA82BBA005D04CF /* SexBombModels.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SexBombModels.swift; sourceTree = "<group>"; };
+		FF8372C01EA82BBA005D04CF /* SexBombPresenter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SexBombPresenter.swift; sourceTree = "<group>"; };
+		FF8372C11EA82BBA005D04CF /* SexBombRouter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SexBombRouter.swift; sourceTree = "<group>"; };
+		FF8372C21EA82BBA005D04CF /* SexBombViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SexBombViewController.swift; sourceTree = "<group>"; };
+		FF8372C31EA82BBA005D04CF /* SexBombWorker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SexBombWorker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +125,7 @@
 		FF83728C1EA82A41005D04CF /* CleanBandit */ = {
 			isa = PBXGroup;
 			children = (
+				FF8372BB1EA82A4E005D04CF /* TestGroup */,
 				FF83728D1EA82A41005D04CF /* AppDelegate.swift */,
 				FF83728F1EA82A41005D04CF /* ViewController.swift */,
 				FF8372911EA82A41005D04CF /* Main.storyboard */,
@@ -123,6 +152,28 @@
 				FF8372AF1EA82A42005D04CF /* Info.plist */,
 			);
 			path = CleanBanditUITests;
+			sourceTree = "<group>";
+		};
+		FF8372BB1EA82A4E005D04CF /* TestGroup */ = {
+			isa = PBXGroup;
+			children = (
+				FF8372BC1EA82A6A005D04CF /* Yarrax */,
+			);
+			name = TestGroup;
+			sourceTree = "<group>";
+		};
+		FF8372BC1EA82A6A005D04CF /* Yarrax */ = {
+			isa = PBXGroup;
+			children = (
+				FF8372BD1EA82BBA005D04CF /* SexBombConfigurator.swift */,
+				FF8372BE1EA82BBA005D04CF /* SexBombInteractor.swift */,
+				FF8372BF1EA82BBA005D04CF /* SexBombModels.swift */,
+				FF8372C01EA82BBA005D04CF /* SexBombPresenter.swift */,
+				FF8372C11EA82BBA005D04CF /* SexBombRouter.swift */,
+				FF8372C21EA82BBA005D04CF /* SexBombViewController.swift */,
+				FF8372C31EA82BBA005D04CF /* SexBombWorker.swift */,
+			);
+			name = Yarrax;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -262,8 +313,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FF8372D01EA82BBA005D04CF /* SexBombRouter.swift in Sources */,
 				FF8372901EA82A41005D04CF /* ViewController.swift in Sources */,
+				FF8372C71EA82BBA005D04CF /* SexBombInteractor.swift in Sources */,
+				FF8372CA1EA82BBA005D04CF /* SexBombModels.swift in Sources */,
+				FF8372CD1EA82BBA005D04CF /* SexBombPresenter.swift in Sources */,
+				FF8372D31EA82BBA005D04CF /* SexBombViewController.swift in Sources */,
+				FF8372C41EA82BBA005D04CF /* SexBombConfigurator.swift in Sources */,
 				FF83728E1EA82A41005D04CF /* AppDelegate.swift in Sources */,
+				FF8372D61EA82BBA005D04CF /* SexBombWorker.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -271,7 +329,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FF8372D71EA82BBA005D04CF /* SexBombWorker.swift in Sources */,
 				FF8372A31EA82A42005D04CF /* CleanBanditTests.swift in Sources */,
+				FF8372CE1EA82BBA005D04CF /* SexBombPresenter.swift in Sources */,
+				FF8372C51EA82BBA005D04CF /* SexBombConfigurator.swift in Sources */,
+				FF8372CB1EA82BBA005D04CF /* SexBombModels.swift in Sources */,
+				FF8372C81EA82BBA005D04CF /* SexBombInteractor.swift in Sources */,
+				FF8372D41EA82BBA005D04CF /* SexBombViewController.swift in Sources */,
+				FF8372D11EA82BBA005D04CF /* SexBombRouter.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -279,7 +344,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FF8372D81EA82BBA005D04CF /* SexBombWorker.swift in Sources */,
 				FF8372AE1EA82A42005D04CF /* CleanBanditUITests.swift in Sources */,
+				FF8372CF1EA82BBA005D04CF /* SexBombPresenter.swift in Sources */,
+				FF8372C61EA82BBA005D04CF /* SexBombConfigurator.swift in Sources */,
+				FF8372CC1EA82BBA005D04CF /* SexBombModels.swift in Sources */,
+				FF8372C91EA82BBA005D04CF /* SexBombInteractor.swift in Sources */,
+				FF8372D51EA82BBA005D04CF /* SexBombViewController.swift in Sources */,
+				FF8372D21EA82BBA005D04CF /* SexBombRouter.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
