@@ -23,7 +23,7 @@ class SexBombViewController: UITableViewController,  SexBombPresenterOutput {
     
     override func awakeFromNib() {
         super.awakeFromNib()
-        SexBombConfigurator.sharedInstance.configure(self)
+        SexBombConfigurator.sharedInstance.configure(viewController: self)
     }
     
     // MARK: View lifecycle
@@ -39,7 +39,7 @@ class SexBombViewController: UITableViewController,  SexBombPresenterOutput {
         // NOTE: Ask the Interactor to do some work
         
         let request = SexBombRequest()
-        output.doSomething(request)
+        output.doSomething(request: request)
     }
     
     // MARK: Display logic
